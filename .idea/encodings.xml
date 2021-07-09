@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/apifuture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/apifuture/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/common-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/common-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/common/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
