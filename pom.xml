@@ -12,6 +12,7 @@
         <module>libraries/concurrentutils</module>
         <module>libraries/executor</module>
         <module>libraries/futuremaster</module>
+        <module>rxjava-common</module>
     </modules>
 
     <properties>

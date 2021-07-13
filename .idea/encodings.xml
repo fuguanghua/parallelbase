@@ -7,5 +7,35 @@
     <file url="file://$PROJECT_DIR$/libraries/futuremaster/common-test/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/libraries/futuremaster/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/libraries/futuremaster/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/guava-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/guava-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/guava-rxjava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/guava-rxjava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/guava-rxjava2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/guava-rxjava2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/java8-apifuture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/java8-apifuture/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/java8-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/java8-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/java8-guava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/java8-guava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava-java8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava-java8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava2-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava2-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava2-java8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/rxjava2-java8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-guava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-guava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-java8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-java8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-rxjava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-rxjava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-rxjava2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libraries/futuremaster/spring-rxjava2/src/main/resources" charset="UTF-8" />
   </component>
 </project>

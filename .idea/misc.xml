@@ -9,7 +9,9 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/libraries/guava-common/pom.xml" />
         <option value="$PROJECT_DIR$/libraries/pom.xml" />
+        <option value="$PROJECT_DIR$/rxjava-common/pom.xml" />
       </set>
     </option>
   </component>

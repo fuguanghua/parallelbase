@@ -6,11 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-java8" />
+        <module name="guava-rxjava2" />
         <module name="apifuture" />
-        <module name="common-test" />
-        <module name="common" />
-        <module name="executor" />
+        <module name="spring-common" />
+        <module name="rxjava-common" />
+        <module name="rxjava-java8" />
+        <module name="guava-rxjava" />
+        <module name="java8-guava" />
+        <module name="spring-guava" />
         <module name="concurrentutils" />
+        <module name="common-test" />
+        <module name="rxjava2-common" />
+        <module name="spring-rxjava" />
+        <module name="spring-rxjava2" />
+        <module name="common" />
+        <module name="java8-common" />
+        <module name="rxjava2-java8" />
+        <module name="executor" />
+        <module name="java8-apifuture" />
+        <module name="guava-common" />
       </profile>
     </annotationProcessing>
   </component>

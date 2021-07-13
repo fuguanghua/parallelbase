@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>futuremaster</artifactId>
+        <groupId>me.fuguanghua</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>java8-guava</artifactId>
+
+    <properties>
+        <targetSdk>1.8</targetSdk>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <artifactId>common</artifactId>
+            <groupId>me.fuguanghua</groupId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <artifactId>java8-common</artifactId>
+            <groupId>me.fuguanghua</groupId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <artifactId>guava-common</artifactId>
+            <groupId>me.fuguanghua</groupId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <artifactId>common-test</artifactId>
+            <groupId>me.fuguanghua</groupId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifestEntries>
+                            <Automatic-Module-Name>me.fuguanghua.future.java8guava</Automatic-Module-Name>
+                        </manifestEntries>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
