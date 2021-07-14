@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="BlockingQueue" />
         <module name="spring-java8" />
         <module name="guava-rxjava2" />
         <module name="apifuture" />
         <module name="spring-common" />
         <module name="rxjava-common" />
+        <module name="disruptor" />
         <module name="rxjava-java8" />
         <module name="guava-rxjava" />
         <module name="java8-guava" />
