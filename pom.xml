@@ -16,9 +16,9 @@
         <module>libraries/disruptor</module>
         <module>libraries/concurrentcollection</module>
         <module>PerfTests</module>
-        <module>PerfTest/Thoughout</module>
         <module>PerfTest/Delay</module>
         <module>PerfTest/Throughput</module>
+        <module>UnitTest/DistuptorUnitTest</module>
     </modules>
 
     <properties>

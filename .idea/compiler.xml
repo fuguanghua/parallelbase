@@ -6,33 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BlockingQueue" />
         <module name="spring-java8" />
-        <module name="guava-rxjava2" />
         <module name="apifuture" />
-        <module name="spring-common" />
         <module name="rxjava-common" />
         <module name="disruptor" />
         <module name="Throughput" />
         <module name="rxjava-java8" />
         <module name="guava-rxjava" />
         <module name="java8-guava" />
-        <module name="spring-guava" />
         <module name="Delay" />
         <module name="concurrentutils" />
-        <module name="common-test" />
         <module name="rxjava2-common" />
-        <module name="spring-rxjava" />
+        <module name="DisruptorUnitTest" />
         <module name="spring-rxjava2" />
         <module name="common" />
-        <module name="java8-common" />
+        <module name="DistuptorUnitTest" />
         <module name="rxjava2-java8" />
         <module name="executor" />
-        <module name="java8-apifuture" />
         <module name="guava-common" />
+        <module name="BlockingQueue" />
+        <module name="guava-rxjava2" />
+        <module name="spring-common" />
+        <module name="spring-guava" />
+        <module name="common-test" />
+        <module name="spring-rxjava" />
+        <module name="java8-common" />
+        <module name="java8-apifuture" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="DisruptorUnitTest" target="11" />
       <module name="Thoughput" target="11" />
       <module name="Throughout" target="11" />
     </bytecodeTargetLevel>
