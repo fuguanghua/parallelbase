@@ -19,6 +19,7 @@
         <module>PerfTest/Delay</module>
         <module>PerfTest/Throughput</module>
         <module>UnitTest/DistuptorUnitTest</module>
+        <module>libraries/threaddump</module>
     </modules>
 
     <properties>

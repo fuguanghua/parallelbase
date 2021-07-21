@@ -23,6 +23,7 @@
         <module name="DistuptorUnitTest" />
         <module name="rxjava2-java8" />
         <module name="executor" />
+        <module name="threaddump" />
         <module name="guava-common" />
         <module name="BlockingQueue" />
         <module name="guava-rxjava2" />
